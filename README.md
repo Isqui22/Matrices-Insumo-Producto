@@ -8,9 +8,7 @@ A continuación, se adjunta el archivo en formato PDF que contiene las consignas
 
 ### Observación
 
-En el último punto del TP se busca aplicar todo lo visto anteriormente en un caso real. Para ello utilizaremos las Matrices de Insumo-Producto generadas
-por la Comisión Económica para América Latina y el Caribe (CEPAL), un organismo de
-Naciones Unidas.
+En el último punto del TP se busca aplicar todo lo visto anteriormente en un caso real. Para ello se emplean las Matrices de Insumo-Producto provistas por la Comisión Económica para América Latina y el Caribe (CEPAL), un organismo perteneciente a las Naciones Unidas. Estas matrices están contenidas en el archivo:
 
 [matrizlatina2011_compressed_0.xlsx](https://github.com/user-attachments/files/17530795/matrizlatina2011_compressed_0.xlsx)
 
