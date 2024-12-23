@@ -1,4 +1,4 @@
-Este es un trabajo práctico sobre Matrices de Insumo-Producto para la materia Algebra Lineal Computacional en la Facultad de Ciencias Exactas y Naturales de la UBA.
+Este material corresponde al primer trabajo práctico sobre Matrices de Insumo-Producto, desarrollado para la materia Álgebra Lineal Computacional de la Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires (UBA).
 
 ### Consignas del Trabajo
 
